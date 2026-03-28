@@ -1,0 +1,2 @@
+# banzapppainel
+ban whatsaap
